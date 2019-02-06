@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Boycey63/node_jb/issues"
   },
-  "homepage": "https://github.com/Boycey63/node_jb#readme"
+  "homepage": "https://github.com/Boycey63/node_jb#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
