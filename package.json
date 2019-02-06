@@ -1,0 +1,19 @@
+{
+  "name": "node_jb",
+  "version": "1.0.0",
+  "description": "A very simple node repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boycey63/node_jb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boycey63/node_jb/issues"
+  },
+  "homepage": "https://github.com/Boycey63/node_jb#readme"
+}
